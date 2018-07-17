@@ -1,2 +1,2 @@
-# MagicTweeterBot
-Search for tweets containing keywords and reply with a custom message using tweepy
+# TweetMe
+Search for tweets containing keywords and reply with a custom message via Tweepy
